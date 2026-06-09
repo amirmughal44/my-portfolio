@@ -1,0 +1,5 @@
+Muhammad Amir
+
+I am a Software Engineering student at Riphah International University in Lahore, Pakistan.
+I build mobile and web applications using Flutter, Dart, Firebase, REST APIs, and MERN stack technologies.
+My goal is to create modern, scalable, and user-friendly software for real clients and real problems.
