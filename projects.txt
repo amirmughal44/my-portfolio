@@ -1,0 +1,28 @@
+Portfolio Projects
+
+1. Mughal Builders & Construction Company App
+   Built a Flutter mobile application for a construction company in Lahore with a modern interface and practical business features.
+
+2. Task Reminder App
+   Developed a task management application with reminders, notifications, and organized user workflows.
+
+3. Physiotherapist & Online Doctor Consultation App
+   Created a healthcare-focused consultation application for appointment and communication features.
+
+4. Coffee Shop App
+   Designed and developed a responsive Flutter app with a polished customer-facing interface.
+
+5. Watch Store Web Application
+   Built a modern ecommerce-style web application with responsive design.
+
+6. AI-Powered Cold Mail System
+   Developed a web app for automated outreach and email workflow support.
+
+7. Donut Shop Web Application
+   Created a responsive web application with a clean product presentation.
+
+8. CV Analyzer Web App
+   Built a resume analysis and optimization tool for reviewing CV content.
+
+9. Mughal Builders Website
+   Designed and developed a professional website for Mughal Builders & Construction Company, Lahore.

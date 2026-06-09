@@ -1,0 +1,18 @@
+Technical Skills
+
+- Flutter and Dart mobile app development
+- Cross-platform app development for Android, iOS, and web
+- Firebase: Firestore, Firebase Authentication, Cloud Storage, and Realtime Database
+- REST API integration
+- MERN stack development: MongoDB, Express.js, React, and Node.js
+- React and React Native
+- Responsive web design and UI/UX improvement
+- Git, GitHub, GitLab, and Docker
+- JavaScript, C++, problem solving, algorithms, and data structures
+
+Professional Strengths
+
+- Client-focused freelancing experience
+- Clean interface design and performance-focused app development
+- Ability to build practical applications from idea to working product
+- Continuous learning through certifications and project-based practice
