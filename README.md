@@ -15,19 +15,6 @@ He focuses on Flutter development, mobile app development, web application devel
 - `projects.txt` - selected mobile and web development projects
 - `contact-info.txt` - contact and GitHub information
 
-## Lab Work Demonstrated
-
-- Git installation verification
-- Global Git username and email configuration
-- Local repository initialization
-- File staging and commits
-- Multiple-file commits
-- GitHub remote connection
-- Branch creation with `update-profile`
-- Merge from `update-profile` into `main`
-- Commit history review
-- File rename and file deletion commits
-
 ## Submission Screenshots
 
 Evidence screenshots are saved in the `screenshots` folder:
