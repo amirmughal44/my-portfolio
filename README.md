@@ -28,6 +28,16 @@ He focuses on Flutter development, mobile app development, web application devel
 - Commit history review
 - File rename and file deletion commits
 
+## Submission Screenshots
+
+Evidence screenshots are saved in the `screenshots` folder:
+
+- `00-lab-task-checklist.png`
+- `01-git-config-and-remote.png`
+- `02-commit-history.png`
+- `03-branch-creation-and-merge.png`
+- `04-final-repository-files.png`
+
 ## GitHub
 
 Repository link: https://github.com/amirmughal44/my-portfolio
