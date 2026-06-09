@@ -7,3 +7,7 @@ My goal is to create modern, scalable, and user-friendly software for real clien
 I have more than one year of freelancing experience and have completed 10+ Flutter projects across Android, iOS, and web platforms.
 I am certified in full stack development, JavaScript fundamentals, and C++ fundamentals through EVS Institute and Cisco NetAcad.
 I am looking for professional opportunities where I can apply my skills, keep improving, and contribute to reliable software products.
+
+Current Focus
+
+My current focus is mobile application development, especially Flutter applications that combine responsive interfaces, Firebase services, authentication, API integration, and smooth user experiences.
