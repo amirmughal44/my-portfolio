@@ -1,0 +1,4 @@
+Learning Notes
+
+This temporary file is used for the Git repository management task.
+It will be deleted in a later commit to demonstrate removing tracked files with Git.
