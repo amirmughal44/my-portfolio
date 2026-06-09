@@ -38,6 +38,10 @@ Evidence screenshots are saved in the `screenshots` folder:
 - `03-branch-creation-and-merge.png`
 - `04-final-repository-files.png`
 
+## SPM Course Files
+
+Additional submitted Software Project Management files are saved in the `spm-course-files` folder.
+
 ## GitHub
 
 Repository link: https://github.com/amirmughal44/my-portfolio
